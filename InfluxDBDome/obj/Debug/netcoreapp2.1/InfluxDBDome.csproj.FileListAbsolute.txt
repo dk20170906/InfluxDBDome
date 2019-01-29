@@ -1,0 +1,11 @@
+E:\InfluxDBDome\InfluxDBDome\bin\Debug\netcoreapp2.1\InfluxDBDome.deps.json
+E:\InfluxDBDome\InfluxDBDome\bin\Debug\netcoreapp2.1\InfluxDBDome.runtimeconfig.json
+E:\InfluxDBDome\InfluxDBDome\bin\Debug\netcoreapp2.1\InfluxDBDome.runtimeconfig.dev.json
+E:\InfluxDBDome\InfluxDBDome\bin\Debug\netcoreapp2.1\InfluxDBDome.dll
+E:\InfluxDBDome\InfluxDBDome\bin\Debug\netcoreapp2.1\InfluxDBDome.pdb
+E:\InfluxDBDome\InfluxDBDome\obj\Debug\netcoreapp2.1\InfluxDBDome.csprojAssemblyReference.cache
+E:\InfluxDBDome\InfluxDBDome\obj\Debug\netcoreapp2.1\InfluxDBDome.csproj.CoreCompileInputs.cache
+E:\InfluxDBDome\InfluxDBDome\obj\Debug\netcoreapp2.1\InfluxDBDome.AssemblyInfoInputs.cache
+E:\InfluxDBDome\InfluxDBDome\obj\Debug\netcoreapp2.1\InfluxDBDome.AssemblyInfo.cs
+E:\InfluxDBDome\InfluxDBDome\obj\Debug\netcoreapp2.1\InfluxDBDome.dll
+E:\InfluxDBDome\InfluxDBDome\obj\Debug\netcoreapp2.1\InfluxDBDome.pdb
